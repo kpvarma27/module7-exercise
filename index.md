@@ -13,7 +13,7 @@ Python was created by Guido van Rossum at CWI was originally developed for the A
 ---
 ### General Features of the Language
 
-[Read More](http://varmalabs.github.io/dive-into-python/#:~:text=A%20Brief%20history%20of%20Python](http://varmalabs.github.io/dive-into-python/2-general-features-of-the-language/)
+[Read More](http://varmalabs.github.io/dive-into-python/2-general-features-of-the-language/)
 
 Python is a general purpose, high level programming language. Python supports multiple programming paradigms, including object-oriented, imperative and functional programming or procedural styles.
 
@@ -22,7 +22,7 @@ Python is a general purpose, high level programming language. Python supports mu
 ---
 ### The Philosophy of Python
 
-[Read More](http://varmalabs.github.io/dive-into-python/#:~:text=A%20Brief%20history%20of%20Python](http://varmalabs.github.io/dive-into-python/3-the-philosophy-of-python/)
+[Read More](http://varmalabs.github.io/dive-into-python/3-the-philosophy-of-python/)
 
 Python was designed to be highly extensible. The core of the language is small but it is supported by the large standard library. The design of Python offers some support for functional programming in the Lisp tradition.
 
