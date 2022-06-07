@@ -6,9 +6,9 @@
 
 Python was created by Guido van Rossum at CWI was originally developed for the Amoeba platform.
 
-[Read More](http://varmalabs.github.io/dive-into-python/#:~:text=A%20Brief%20history%20of%20Python)
+[Read More](http://varmalabs.github.io/dive-into-python/)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/Features-of-Python-1.jpg"/></center>
 
 ---
 ### General Features of the Language
@@ -17,7 +17,7 @@ Python was created by Guido van Rossum at CWI was originally developed for the A
 
 Python is a general purpose, high level programming language. Python supports multiple programming paradigms, including object-oriented, imperative and functional programming or procedural styles.
 
-<center><img src="images/financial_modeling.jpg"/></center>
+<center><img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/1.png"/></center>
 
 ---
 ### The Philosophy of Python
