@@ -6,14 +6,14 @@
 
 Python was created by Guido van Rossum at CWI was originally developed for the Amoeba platform.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/sajankedia/fraud_detection](http://varmalabs.github.io/dive-into-python/#:~:text=A%20Brief%20history%20of%20Python))
+[Read More](http://varmalabs.github.io/dive-into-python/#:~:text=A%20Brief%20history%20of%20Python)
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
 ---
 ### General Features of the Language
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/sajankedia/Financial-Models-Numerical-Methods](http://varmalabs.github.io/dive-into-python/2-general-features-of-the-language/))
+[Read More](http://varmalabs.github.io/dive-into-python/#:~:text=A%20Brief%20history%20of%20Python](http://varmalabs.github.io/dive-into-python/2-general-features-of-the-language/)
 
 Python is a general purpose, high level programming language. Python supports multiple programming paradigms, including object-oriented, imperative and functional programming or procedural styles.
 
@@ -22,7 +22,7 @@ Python is a general purpose, high level programming language. Python supports mu
 ---
 ### The Philosophy of Python
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/sajankedia/LSTM-Neural-Network-for-Time-Series-Prediction](http://varmalabs.github.io/dive-into-python/3-the-philosophy-of-python/))
+[Read More](http://varmalabs.github.io/dive-into-python/#:~:text=A%20Brief%20history%20of%20Python](http://varmalabs.github.io/dive-into-python/3-the-philosophy-of-python/)
 
 Python was designed to be highly extensible. The core of the language is small but it is supported by the large standard library. The design of Python offers some support for functional programming in the Lisp tradition.
 
