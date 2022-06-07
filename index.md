@@ -27,5 +27,6 @@ Python is a general purpose, high level programming language. Python supports mu
 
 Python was designed to be highly extensible. The core of the language is small but it is supported by the large standard library. The design of Python offers some support for functional programming in the Lisp tradition.
 
-<center><img src="https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2019/07/03122859/Py-Core-Philosophy-01-1024x413.png"/></center>
+<center><img src="https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2019/07/03122859/Py-Core-Philosophy-01-768x310.png"/></center>
+
 
